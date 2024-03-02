@@ -1,8 +1,26 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Ecommerce Filter React
 
-Currently, two official plugins are available:
+This is a simple ecommerce filter application that allows users to filter products based on category, price, and rating etc. The application is built using React, Recoil and styled using Tailwind css.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deployed Application
+- https://e-commerce-product-filter.vercel.app/
+
+
+## Prerequisites
+- Node.js and npm installed
+
+## Getting Started
+
+1. **Clone the repository:**
+	```bash
+	git clone https://github.com/Pankaj3112/E-commerce-Product-Filter.git
+	```
+
+3. **Install dependencies and run the vite server:**
+   ```bash
+   npm install
+   npm run dev
+   ```
+
+- Open the app in your web browser at http://localhost:5173/
